@@ -1,0 +1,11 @@
+{
+  "name": "vulcan",
+  "version": "1.0.0",
+  "description": "A build tool developed in-house by Youniverse, free to use for anyone!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Wildman",
+  "license": "ISC"
+}
