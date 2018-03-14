@@ -1,1 +1,3 @@
 node_modules
+src/js/bundle.js
+src/styles/app.css
