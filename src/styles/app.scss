@@ -1,1 +1,18 @@
-@import 'partials/base';
+//Abstracts
+@import 'abstracts/_variables';
+@import 'abstracts/_mixins';
+
+//Vendors
+
+//Base
+@import 'base/_reset';
+@import 'base/_typography';
+
+//Components
+
+//Layout
+@import 'layout/_grid.scss';
+
+//Pages
+@import 'pages/_home';
+
